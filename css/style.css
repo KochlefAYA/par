@@ -1,0 +1,245 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    Background-image:
+
+Linear-gradient(217deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%),
+
+Linear-gradient(127deg, black, black 70.71%),
+
+Linear-gradient(336deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%);
+
+}
+#xy{
+    color: rgb(236, 176, 226);
+    size: 70%;
+    text-shadow: black;
+}
+#diva{
+    width: 55%;
+    height: 70px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    }
+
+   .y{border: 10px;
+       size:35px;
+   }
+.bt{
+    
+}
+
+.spic{ display: flex;
+    align-content: center;
+   display: inline-block
+}
+.pic{
+    display:inline-block;
+    
+   display:inline-flex;
+    align-content: center;
+}
+.pic img:hover{
+opacity: 0.3; 
+}
+
+#gp img{
+/* {margin:20px;  */
+display : block;
+width : 100%;
+padding-bottom:25px;  }
+
+#gp2 img{
+    height:80%
+}
+
+.c1{
+    width:250px;
+    height:250px;
+    margin-left:50px;
+    display:inline-block;
+    background-image:url(https://iyadhkhalfallah.github.io/checkpointsGMC/res/tracks/Objet%20dynamique%20vectoriel.png);
+    background-size: cover;
+    overflow:hidden;
+
+}
+.c1:hover{
+    
+    opacity: 0.5;
+}
+.c1:hover .btnc1{
+    
+    opacity: 0.5;
+}
+.btnc1{
+    margin-top:120px;
+    opacity: 0;
+    
+}
+
+
+.c2{
+    width:250px;
+    height:250px;
+    margin-left:50px;
+    display:inline-block;
+    background-image:url(https://iyadhkhalfallah.github.io/checkpointsGMC/res/tracks/Objet%20dynamique%20vectoriel1.png);
+    background-size: cover;
+    overflow:hidden;
+}
+.c2:hover{
+    opacity: 0.5;
+}
+.c2:hover .btnC2{
+    margin-top:120px;
+    opacity: 0.5;
+}
+.btnc2{
+    opacity: 0;
+}
+
+
+
+.c3{
+    width:250px;
+    height:250px;
+    margin-left:50px;
+    display:inline-block;
+    background-image:url(https://iyadhkhalfallah.github.io/checkpointsGMC/res/tracks/Objet%20dynamique%20vectoriel2.png);
+    background-size: cover;
+    overflow:hidden;
+
+}
+.c3:hover{
+    opacity: 0.5;
+}
+.c3:hover .btnc3{
+    opacity: 0.5;
+}
+
+.btnc3{
+    margin-top:120px;
+    opacity: 0;
+}
+.btnCourses1Hover{
+    display:inline !important;
+    opacity: 1 !important;
+}
+.btnCourses2Hover{
+    display:inline !important;
+    opacity: 1 !important;
+}
+.btnCourses3Hover{
+    display:inline !important;
+    opacity: 1 !important;
+}
+#pp{
+    color: bisque;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    size: 35px;
+}
+    .bt{
+        width:250px;
+    height:250px;
+    margin-left:50px;
+      background-size: cover;
+    overflow:hidden;   
+    }
+#spic2{ 
+
+}
+.pic img{
+    margin: 30px;
+display: relative;}
+
+
+.tcon{
+    color: rgb(243, 237, 157) ;
+    font-size: 50px;
+
+    text-shadow:black ;
+    background-image: url(http://ecom-developers.net/wp-content/uploads/2014/04/web-development.png);
+    width: 100%;
+    height:500px;
+    background-repeat: no-repeat;
+    background-position: center;
+    
+}
+   .titre{
+       color: rgb(243, 237, 157);
+       font-size:50px;
+       text-shadow: black;
+       background-image: url(http://ecom-developers.net/wp-content/uploads/2014/04/web-development.png);
+       width: 100%;
+       height:450px;
+       background-position: center;
+       background-repeat: no-repeat;
+       margin-bottom: 50px;
+       display : block;
+       padding-bottom:25px;
+ } 
+.jjs{
+    color:wheat;
+    font-size: 25px;
+    background-position: center;
+}
+/* .test a{ */
+    /* font-size:40px; */
+    /* color:whitesmoke ; */
+    /* margin:50px; */
+    /* text-decoration: none; */
+
+/* .test a:hover{  */
+/* background-color: rgb(189, 46, 21); */
+}
+#gmc{
+    color: white;
+    font-size: 25px;
+    margin: 50px;
+}
+.bt button{
+    
+    position: relative;
+    top: -50%;
+    display: none;
+}
+.rel { text-decoration: none;
+}
+.tx1 a{ font-size:25px;
+    color: black;
+    margin:50px;
+    text-decoration: none;
+}
+/* .tx1 a:hover{background-color: rgb(189, 46, 21); */
+
+#kt{
+    margin: 15px;
+}
+#log{
+    margin-right: 175px;
+    color: rgb(205, 92, 240);
+    font-family: Arial, Helvetica, sans-serif;
+}
+#para {
+    background-image:"https://images2.minutemediacdn.com/image/upload/c_fill,g_auto,h_1248,w_2220/f_auto,q_auto,w_1100/v1554919465/shape/mentalfloss/istock-157382617.jpg"  
+    width= 100%;
+    height: 200px;
+}
+
+#para text{
+    font-size:25px;
+    color: black;
+    margin:50px;
+    text-decoration: none;
+}
+
+#xo{
+    margin-right: 25px;
+    font-size: 75px;
+    color: rgb(131, 33, 243);
+    text-decoration: none;
+}
